@@ -1,4 +1,4 @@
-<h2><strong>Unemployment Rate Analysis</strong></h2>
+<h3><strong>Unemployment Rate Analysis</strong></h3>
 <hr>
 Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force. We have seen a sharp increase in the unemployment rate during and after Covid-19, so analyzing the unemployment rate in India. <br>The used dataset contains the unemployment rate of all the states in India with regions.
 <br>
