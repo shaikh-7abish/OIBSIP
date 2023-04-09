@@ -1,4 +1,4 @@
-<h3>Sales Prediction using Pyhton</h3>
+<h3><strong>Sales Prediction using Pyhton</strong></h3>
 
 <hr>
 Sales prediction means predicting how much of a product people will buy based on factors
