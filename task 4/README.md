@@ -1,4 +1,5 @@
-<h2><strong>E-Mail Spam Detection With Machine Learning.</strong></h2>
+<h3><strong>E-Mail Spam Detection With Machine Learning.</strong></h3>
+<hr>
 
 We’ve all been the recipient of spam emails before. Spam mail, or junk mail, is a type of email
 that is sent to a massive number of users at one time, frequently containing cryptic
